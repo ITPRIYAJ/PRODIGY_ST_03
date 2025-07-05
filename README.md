@@ -75,7 +75,7 @@ bash
 
 CopyEdit
 
-`pytest test_login.py`  
+`pytest demo_login1.py`  
 
 All test cases use **explicit waits** and **XPath locators** for stable automation.
 
