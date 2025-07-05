@@ -59,10 +59,6 @@ This project automates Login Functionality testing for [Demo Web Shop](https://d
 
 Install requirements using:
 
-bash
-
-CopyEdit
-
 `pip install selenium pytest`  
 
 * * *
@@ -71,10 +67,6 @@ CopyEdit
 
 Execute the following command in your project directory:
 
-bash
-
-CopyEdit
-
 `pytest demo_login1.py`  
 
 All test cases use **explicit waits** and **XPath locators** for stable automation.
@@ -82,10 +74,6 @@ All test cases use **explicit waits** and **XPath locators** for stable automati
 * * *
 
 ## 📂 Project Structure:
-
-bash
-
-CopyEdit
 
 `├── test_login.py     # Contains all Login test cases ├── README.md         # Project documentation └── requirements.txt  # Dependencies (Optional)`
 
